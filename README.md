@@ -2,10 +2,17 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://solved.ac/fluorine/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fluorine" alt="Solved.ac Profile">
+  </a>
+</p>
+
+
 ### Career
-<!-- - 2024.01 ~ :  -->
+- 2024.01 ~ : 
 - 2023.01 ~ 2023.12 : Samsung SW Academy 9th <br/>
-- 2022.03 ~ 2022.08 : Working for the new F&B business team at INGSTORY <br/>
+- 2022.03 ~ 2022.08 : KAIST Jungle <br/>
 - 2014.03 ~ 2020.08 : Major in Chemical Engineering, Inha Univ <br/>
 
 
@@ -25,13 +32,10 @@
 <!-- Tool -->
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=Termius&logoColor=white">
 
-
 <br/>
 
-### [Portfolio](https://fitsta-bucket.s3.ap-northeast-2.amazonaws.com/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
-
 <p align="center">
-  <a href="https://solved.ac/fluorine/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fluorine" alt="Solved.ac Profile">
+  <a href="https://fitsta-bucket.s3.ap-northeast-2.amazonaws.com/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">
+    <b>My Portfolio</b>
   </a>
 </p>
