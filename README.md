@@ -9,14 +9,14 @@
 </p>
 
 
-### Career
-- 2024.01 ~ : 
+### Career.
+<!-- - 2024.01 ~ :  -->
 - 2023.01 ~ 2023.12 : Samsung SW Academy 9th <br/>
 - 2022.03 ~ 2022.08 : KAIST Jungle <br/>
 - 2014.03 ~ 2020.08 : Major in Chemical Engineering, Inha Univ <br/>
 
 
-### Skills
+### Skill.
 <!-- Language -->
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
@@ -34,7 +34,7 @@
 
 
 <!-- Project -->
-### Project
+### Project.
 |TITLE|PERIOD|DESCRIPTION|ROLE|
 |:---:|:---:|:---:|:---:|
 |<a href="https://github.com/LingoTown">LingoTown</a>|23.10.10 ~ 23.11.17|AI와 대화하는 메타버스 언어마을|Leader/FE|
@@ -45,7 +45,7 @@
 
 
 <!-- Contact -->
-### Contact
+### Contact.
 - Email : jiminsung@naver.com<br/>
 - <a href="https://fitsta-bucket.s3.ap-northeast-2.amazonaws.com/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf" target="_blank">
     <b>Portfolio</b>
