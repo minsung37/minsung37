@@ -32,7 +32,6 @@
 <!-- Tool -->
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=Termius&logoColor=white">
 
-<br/>
 
 <!-- Project -->
 ### Project
@@ -44,7 +43,6 @@
 |<a href="https://github.com/TheSecondLife">SecondLife</a>|23.06.12 ~ 23.07.02|시니어를 위한 취업, 문화, 건강, 소통 앱 서비스|Leader/FE/BE/Infra|
 |<a href="https://github.com/Fitsta">Fitsta</a>|23.05.18 ~ 23.05.26|운동기록을 위한 SNS 서비스|FE/BE/Infra|
 
-<br/>
 
 <!-- Contact -->
 ### Contact
@@ -52,4 +50,3 @@
 - <a href="https://fitsta-bucket.s3.ap-northeast-2.amazonaws.com/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf" target="_blank">
     <b>Portfolio</b>
   </a>
-<br/>
