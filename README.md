@@ -47,6 +47,7 @@
 <!-- Contact -->
 ### Contact.
 - Email : jiminsung@naver.com<br/>
+- Blog : https://msdevlog.tistory.com
 - <a href="https://fitsta-bucket.s3.ap-northeast-2.amazonaws.com/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf" target="_blank">
     <b>Portfolio</b>
   </a>
