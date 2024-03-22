@@ -1,4 +1,4 @@
-## ⭐ Welcome to Minsung's Coding History ⭐
+## Minsung
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 
 ### Career.
-<!-- - 2024.01 ~ :  -->
+- 2024.01 ~ : Tmax Cloud
 - 2023.01 ~ 2023.12 : Samsung SW Academy 9th <br/>
 - 2022.03 ~ 2022.08 : KAIST Jungle <br/>
 - 2014.03 ~ 2020.08 : Major in Chemical Engineering, Inha Univ <br/>
